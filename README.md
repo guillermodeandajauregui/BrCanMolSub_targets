@@ -1,6 +1,5 @@
 # BrCanMolSub_targets
-Scripts for my doctoral thesis: Search for new therapeutic targets for breast cancer molecular subtypes.\\ 
-Used in de Anda - Jáuregui et al (2015).
+Scripts for my doctoral thesis: Search for new therapeutic targets for breast cancer molecular subtypes. 
 
 #####microarray_normalization.R : normalize microarray data using frma and batch correction
 #####parker_pam50.R : annotated script to run PAM50 on breast cancer samples as described by Parker et al. 
